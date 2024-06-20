@@ -1,0 +1,14 @@
+{
+  "resourceName": "imageproduct",
+  "policyUUID": "757d2d16",
+  "bucketName": "amplifysamplefromaws496634ce1291452594cbf87d435",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
